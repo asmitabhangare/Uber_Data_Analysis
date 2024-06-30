@@ -26,3 +26,5 @@ We will analyze Uber ride data to understand various patterns and trends. The da
    - *Comparison Across Bases:* We will compare ride frequencies across different bases to see which base has the most and least rides.
 
 These analyses will help us understand the patterns and trends in Uber ride data, providing insights that can be used for better decision-making and optimizing Uber operations.
+
+**Dataset link** https://drive.google.com/drive/folders/1YTcKQ7oGHBAWNkA5WTh-Ig9xs3RC0YxA?usp=sharing
