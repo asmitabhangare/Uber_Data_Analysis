@@ -10,7 +10,10 @@ The analysis is broken up into 3 sections:
 We will analyze Uber ride data to understand various patterns and trends. The dataset includes columns for date and time, latitude and longitude (location), base, month, day, hour, and minute.
 
 **1. Time-Based Analysis:**
-     - Peak Hours for Uber Rides: We will identify the busiest hours of the day for Uber rides.
+   - Peak Hours for Uber Rides: We will identify the busiest hours of the day for Uber rides.
+     - Second nested list item
+
+- 
 Ride Patterns by Day of the Week:
 
 We will examine how the number of rides varies on different days of the week.
